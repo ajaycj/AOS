@@ -1,6 +1,5 @@
-Author: AJAY CHINTHAPALLI JAYAKUMAR.
-Net id: axc142430
-Tested on : dcxx machines and on ubuntu 14.04
+Author: AJAY 
+Tested on : dc01 to dc45 university linux machines and on ubuntu 14.04
 ----------------------------------------------------------------------------------------------------------------------------
 Detailed Instructions and Steps to compile and run the code.
 ----------------------------------------------------------------------------------------------------------------------------
